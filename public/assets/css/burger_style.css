@@ -1,0 +1,19 @@
+body {
+    background:whitesmoke;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: black;
+    margin: 10px
+}
+
+.photoOnBackground {
+    background-image: url(https://cdn.wallpapersafari.com/12/50/HxY48y.jpg);
+}
+
+.jumbotron {
+    border: black;
+    border: 10px;
+    background-color: darkgrey;
+    color: whitesmoke
+
+}
